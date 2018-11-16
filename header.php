@@ -16,15 +16,12 @@
 
     <!-- Personal JS and CSS files -->
     <script type="text/javascript" src="<?php echo get_stylesheet_directory_uri().'/js/main.js';?>"></script>
-    <link rel="stylesheet" href="<?php bloginfo('stylesheet_url');?>">
+    <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri().'/css/master.css';?>">
 
     <title>Learning!</title>
   </head>
   <body>
     <div id="ttr_header" class="jumbotron">
     </div>
-    <h1 style="color:black;">HEADER</h1>
-
-    
-  </body>
-</html>
+    <h1 id="roia" >HEADER</h1>
+ 
