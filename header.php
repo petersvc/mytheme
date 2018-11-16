@@ -16,8 +16,7 @@
 
     <!-- Personal JS and CSS files -->
     <script type="text/javascript" src="<?php echo get_stylesheet_directory_uri().'/js/main.js';?>"></script>
-    <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri().'/css/master.css';?>">
-
+    <link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>">
     <title>Learning!</title>
   </head>
   <body>
