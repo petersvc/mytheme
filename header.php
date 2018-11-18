@@ -17,11 +17,12 @@
     <!-- Personal JS and CSS files -->
     <script type="text/javascript" src="<?php echo get_stylesheet_directory_uri().'/js/main.js';?>"></script>
     <link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>">
+    <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri().'/style.css';?>">
     <title>Learning!</title>
   </head>
   <body>
     <div id="ttr_header" class="jumbotron">
-      <h1 id="roia" >HEADER</h1>
+      <h1 id="roia">HEADER</h1>
     </div>
     
  

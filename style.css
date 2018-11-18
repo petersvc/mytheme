@@ -1,3 +1,39 @@
-#roia {
+body
+{
     color: gray;
+    text-align: left;
+}
+h1,h2,h3
+{
+    color: rgb(60,60,60);
+}
+#ttr_main
+{
+    margin-top: 5%;
+}
+#ttr_content
+{
+    left: 5%;
+}
+#ttr_sidebar
+{
+    left: 8%;
+    border-left: 1px solid gray;
+}
+#ttr_footer
+{   
+    margin-top: 3%;
+    width: 100%;
+    border-top: 1px #a2a2a2 solid;
+    text-align: center;
+}
+#ttr_footer h1
+{
+    margin-top: 3%;
+}
+.title
+{
+    font-size: 11pt;
+    font-family: verdana;
+    font-weight: bold;
 }
