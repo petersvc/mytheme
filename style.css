@@ -7,9 +7,13 @@ h1,h2,h3
 {
     color: rgb(60,60,60);
 }
+#coisa
+{
+    background: transparent;
+}
 #ttr_main
 {
-    margin-top: 5%;
+    margin-top: 0%;
 }
 #ttr_content
 {
